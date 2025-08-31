@@ -215,6 +215,10 @@ game.start()
 
 
 
+<img width="545" height="325" alt="스크린샷 2025-08-31 오후 7 32 12" src="https://github.com/user-attachments/assets/6bba062d-4056-4865-a911-b63990e79e93" />
+
+
+테스트도 잘 된다는 것을 확인했습니다! 제가 너무 잘 맞춰서 당황...
 
 
 
